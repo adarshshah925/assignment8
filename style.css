@@ -1,0 +1,23 @@
+/* 
+Theme Name: Twenty Seventeen Child 
+Theme URL: http://yourdomain.com
+Description: Twenty Seventeen Child 
+Theme Author: Your Name
+Author URL: http://yourdomain.com
+Template: twentyseventeen 
+Version: 1.0.0 
+Text Domain: twentyseventeen-child 
+*/
+
+.site-content-contain {
+    background-color: #DEF0F5;
+    position: relative;
+}
+
+p {
+color: teal;
+}
+p {
+font-family: Georgia;
+font-size: 18px;
+}
